@@ -32,11 +32,14 @@ body{
     background: #fffdfd;
     overflow-x: hidden;
     font-family: 'Inter', sans-serif;
+    padding-top: 100px;
 }
 
 /** Navigation Bar **/
+
+
 header {
-    position: relative;
+    position: fixed;
     top: 0;
     left: 0;
     z-index: 1;
